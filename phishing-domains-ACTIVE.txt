@@ -116974,6 +116974,7 @@ bighouse.cl
 bigideasa.co.za
 bigideas.com.ph
 big-industrious-tugboat.glitch.me
+big-ip-client.com
 bigislandcondorentalsbyowner.com
 big-jackal-long.on-fleek.app
 bigjoy-now.com
@@ -140382,6 +140383,7 @@ cisbm.com
 cischampionshipcup.com
 cischem.co.kr
 ciscondecor.com
+cisco-secure-client.es
 cisfyanqthrdibkcjoejonltef-dot-gle39404049.rj.r.appspot.com
 cishu.xhost.ro
 cismontane-tracker.000webhostapp.com
@@ -140583,6 +140585,7 @@ citrine-north-waterlily.glitch.me
 citrine-plaid-kip.glitch.me
 citrine-tungsten-gigantoraptor.glitch.me
 citrino.uk
+citrix-secure-access.org
 citruseducation.com
 citrusrootstock.com
 citsa.co.za
@@ -197967,7 +197970,12 @@ fortheloveofh2o.net
 fortheloveofpaws.pet
 forthmoor.com
 forthright-shops.000webhostapp.com
+forticlient.ca
+forticlient-for-mac.com
 forticlient.gr
+forticlient.no
+forticlient-vpn.org
+fortigate-vpn.com 
 fortinaiti.my.id
 fortinet.shardocs.com
 fortinfopers45556.blogspot.com
@@ -197978,6 +197986,7 @@ fortisgarments.com
 fortislaw.com
 fortism.page.link
 fortius.foundation
+fortivpn.download
 fortnitemods.000webhostapp.com
 fortobassa.dnsget.org
 fortplayhdtv.com
@@ -316613,6 +316622,8 @@ nordicglue.com
 nordichairistanbul.com
 nordicsecureid.wpenginepowered.com
 nordicwalkingcadiz.com
+nordlayer-vpn.com
+nordlayer-vpn.com 
 nordlets.ml
 nordorange.com
 nordpost-dkk-anywherecode9616046.codeanyapp.com
@@ -325236,6 +325247,7 @@ openvcs-sexluncah.sumber-inportal.my.id
 openvdemo.tepuysoft.com
 openvoivc.taylomw.com
 openvotes.pro
+openvpn-connect.com
 openweb76ery8macopyright.cabanova.com
 open-web-domain.tempurl.host
 openwebmedia.icu
@@ -377317,6 +377329,7 @@ sonerviac.vercel.app
 so--netcoins--com--cd--auth.webflow.io
 soniaborges.com.br
 sonic-0101.github.io
+sonicwall-netextender.nl
 sontungmtpmaidinhnhe.pages.dev
 sonudesigner12.github.io
 sonuforpeoplefoundation.org
@@ -385638,6 +385651,7 @@ userservice7678.weebly.com
 usersfixd.app
 usersp-fb.com
 user.swiftecosystemexplorer.com
+usertophone.com
 user-toyakeh439.sitebuilderbuilder.com
 usertrackhst.top
 userverificationaccountportal.com
@@ -388082,6 +388096,7 @@ v.pilot45.com
 vpmlatvija.com
 vpn.chaoqianvv.workers.dev
 vpn.dmg-tech.com
+vpn-fortinet.com
 vpn.professior.cloudns.org
 vpns.veonix.host
 vpprpvv.top
@@ -388568,6 +388583,8 @@ waskeys.com
 wasray-corcoga-wayora20.netlify.app
 wassef.com.eg
 watchallwrestling.com
+watchguard-vpn.de 
+watchguard-vpn.net
 watchnowclick.com
 waterheaterrepairatascocita.com
 waterneutral.foundation
