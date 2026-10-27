@@ -1,0 +1,8 @@
+{
+  "checked_at": "2026-10-27T11:28:36.016678+00:00",
+  "upstream": "Phishing-Database/Phishing.Database",
+  "upstream_branch": "master",
+  "upstream_commit": "12a20bf8dd2b7e78d9d38fc12b3e5c970f79d1a7",
+  "version": 1,
+  "workflow_policy": "preserve fork workflows; never import upstream workflows"
+}
